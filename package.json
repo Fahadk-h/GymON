@@ -1,0 +1,20 @@
+{
+  "name": "gymon",
+  "version": "1.0.0",
+  "description": "GymON is a web application system for Personal Trainers managing memebers diet experiance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fahadk-h/GymON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fahadk-h/GymON/issues"
+  },
+  "homepage": "https://github.com/Fahadk-h/GymON#readme"
+}
